@@ -6,5 +6,12 @@
 body {
     background-color: cornsilk;
     text-align: center;
-    padding: auto;
+}
+
+.home ul li { 
+    padding: 20px;
+}
+
+a {
+    color: #ecb419;
 }
