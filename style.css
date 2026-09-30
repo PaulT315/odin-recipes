@@ -1,7 +1,9 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box; }
+    box-sizing: border-box;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+}
 
 body {
     background-color: cornsilk;
@@ -28,4 +30,10 @@ a {
 
 .ingredients ul li {
     padding: 30px;
+}
+
+.steps ol li {
+    max-width: 300px;
+    margin: auto;
+    padding: 20px;
 }
