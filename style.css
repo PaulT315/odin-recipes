@@ -6,6 +6,11 @@
 body {
     background-color: cornsilk;
     text-align: center;
+    padding: 10px;
+}
+
+h2 {
+    color: blue;
 }
 
 .home ul li { 
@@ -14,4 +19,13 @@ body {
 
 a {
     color: #ecb419;
+}
+
+.description {
+    padding: 10px;
+    margin: 10px;
+}
+
+.ingredients ul li {
+    padding: 30px;
 }
